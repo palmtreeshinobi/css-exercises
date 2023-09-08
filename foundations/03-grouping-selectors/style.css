@@ -1,0 +1,14 @@
+.blk,
+.yel {
+    font-size: 28px;
+    font: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.blk {
+    background-color: black;
+    color: white;
+}
+
+.yel {
+    background-color: yellow;
+}
